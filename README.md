@@ -33,3 +33,6 @@ Java, objektorientierte Programmierung (OOP)
 
 ---
 *Diese Übungen wurden im Rahmen des Lernfelds "Programmierung" während der Umschulung erstellt.*
+
+---
+*Hinweis: Bei der Fehlerbehebung und Vervollständigung einzelner Dateien wurde Claude (Anthropic) unterstützend eingesetzt.*
