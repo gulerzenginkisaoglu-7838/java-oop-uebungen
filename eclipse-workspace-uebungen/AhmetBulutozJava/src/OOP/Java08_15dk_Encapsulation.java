@@ -1,24 +1,15 @@
 package OOP;
 
 public class Java08_15dk_Encapsulation {
-	private int satisTutari;
-	private int SatisToplami;
+	private int verkaufsbetrag;
+	private int verkaufssumme;
 
-	public void satSatisTutari(int satisTutari) {
-		this.satisTutari = satisTutari;
+	public void setVerkaufsbetrag(int verkaufsbetrag) {
+		this.verkaufsbetrag = verkaufsbetrag;
 	}
-	
-	public int getSatisToplami() {
-		return SatisToplami;
-	}
-	
 
-	
-	
+	public int getVerkaufssumme() {
+		return verkaufssumme;
+	}
+
 }
-
-
-
-
-
-
